@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omsai b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omsai b" height="30" width="40" /></a>
-<a href="https://kaggle.com/omsai b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omsai b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/omsaib07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omsaib07" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/omsaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/omsaib" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pes1ug22cs148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pes1ug22cs148" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omsai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omsai07" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pes1202203750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pes1202203750" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
