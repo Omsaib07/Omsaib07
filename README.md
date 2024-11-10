@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Omsai</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-- 👯 I’m looking to collaborate on ML,HCI
-
-- 📫 How to reach me **omsaib71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
