@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a>omsaib71@gmail.com</a>
+  
 <a href="https://www.linkedin.com/in/omsaib07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omsaib07" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/omsai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omsai07" height="30" width="40" /></a>
