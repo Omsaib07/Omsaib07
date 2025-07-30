@@ -94,29 +94,7 @@
 
 </div>
 
----
 
-## 🚀 **Featured Projects**
-
-### 📚 **Library Management System**
-[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/LibraryManagementSystem.git)
-- **Tech Stack:** Spring Boot, MySQL, Java, MVC Architecture
-- Built full-stack system with role-based access control
-- Implemented book management, user authentication, and transaction tracking
-
-### 📊 **Application Monitoring Platform**
-[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/API-Monitor.git)
-- **Tech Stack:** Kafka, Docker, Grafana, RESTful APIs
-- Real-time log analytics with automated monitoring dashboards
-- Visualized API metrics including response times and error trends
-
-### 🌐 **Network-Based Inventory Management**
-[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/Network-Based-Inventory-Management-system.git)
-- **Tech Stack:** TCP/IP Protocol, Distributed Systems
-- Real-time communication between distributed inventory systems
-- Efficient data synchronization across multiple devices
-
----
 
 ## 📊 **GitHub Statistics**
 
@@ -128,23 +106,7 @@
 
 </div>
 
----
 
-## 🔥 **Contribution Streak**
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsaib07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omsaib07&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -157,13 +119,6 @@
 
 ---
 
-## 🎓 **Certifications & Achievements**
-- 🌐 **Getting Started with Serverless** - Cloud Computing
-- 💻 **Getting Started with Compute** - Infrastructure Management  
-- 📊 **Jira Work Management** - Project Management
-- 🏆 **Active Learner** - Google Developer Profile
-- 🥇 **CIDxEcode State-Level Hackathon** Participant
-- 🚀 **Flipkart Grid 6.0** - Software Development Track
 
 ---
 
