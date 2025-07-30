@@ -2,9 +2,9 @@
 
 <div align="center">
   
-# 👋 Hey there! I'm **Omsai** 
-### 🚀 *Passionate Developer | Code Enthusiast | Problem Solver*
-#### 📍 *Building the future from India* 🇮🇳
+# 👋 Hi, I'm **Omsai Baswaraj Bulla** 
+### 💻 *Java Developer | Full Stack Engineer | Data Analytics Enthusiast*
+#### 📍 *Bengaluru, Karnataka, India* 🇮🇳
 
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
@@ -13,143 +13,168 @@
 ---
 
 ## 🎯 **About Me**
-```javascript
-const omsai = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    currentFocus: ["Web Development", "Machine Learning", "Open Source"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    goals: "Building scalable solutions that make a difference"
-};
-```
+- 🎓 **BTech Student** at PES University (2022-2026)
+- 💼 **Java Developer Intern** at Jeev Lifeworks LLP
+- 🌱 Currently learning **Microservices Architecture** and **Cloud Technologies**
+- 💡 Passionate about **Backend Development**, **Data Analytics**, and **System Design**
+- 📫 Reach me at: **omsaib71@gmail.com**
 
-## 🌐 **Let's Connect & Collaborate**
+## 🌐 **Connect With Me**
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-omsaib71%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsaib71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsaib07/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-omsai07-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/omsai07)
+[![Email](https://img.shields.io/badge/Email-omsaib71%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsaib71@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsaib07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-omsai07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/omsai07)
+[![GitHub](https://img.shields.io/badge/GitHub-Omsaib07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omsaib07)
 
 </div>
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Technical Skills**
 
-### **Languages**
+### **Programming Languages**
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
-### **Frontend Development**
+### **Web Technologies**
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-### **Backend & Database**
-<div align="center">
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
-### **Tools & Technologies**
+### **Frameworks & Backend**
 <div align="center">
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=rest&logoColor=white)
+
+</div>
+
+### **Databases & Analytics**
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+### **DevOps & Tools**
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### **Hardware & IoT**
+<div align="center">
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🚀 **Featured Projects**
+
+### 📚 **Library Management System**
+[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/LibraryManagementSystem.git)
+- **Tech Stack:** Spring Boot, MySQL, Java, MVC Architecture
+- Built full-stack system with role-based access control
+- Implemented book management, user authentication, and transaction tracking
+
+### 📊 **Application Monitoring Platform**
+[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/API-Monitor.git)
+- **Tech Stack:** Kafka, Docker, Grafana, RESTful APIs
+- Real-time log analytics with automated monitoring dashboards
+- Visualized API metrics including response times and error trends
+
+### 🌐 **Network-Based Inventory Management**
+[![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=flat-square&logo=github)](https://github.com/Omsaib07/Network-Based-Inventory-Management-system.git)
+- **Tech Stack:** TCP/IP Protocol, Distributed Systems
+- Real-time communication between distributed inventory systems
+- Efficient data synchronization across multiple devices
+
+---
+
+## 📊 **GitHub Statistics**
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=omsaib07&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="omsaib07" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=omsaib07&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="omsaib07" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omsaib07&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F85D7F" alt="omsaib07" />
-
-</div>
-
----
-
-## 🔥 **GitHub Streak**
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsaib07&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omsaib07&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="omsaib07" />
 
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🔥 **Contribution Streak**
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omsaib07&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omsaib07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 **Contribution Graph**
+## 🏆 **GitHub Achievements**
 <div align="center">
 
-[![Omsai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omsaib07&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omsaib07&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💭 **Random Dev Quote**
+## 📈 **Activity Overview**
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Omsai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omsaib07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🎵 **Currently Vibing To**
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 **Thanks for stopping by!**
-#### *Let's build something amazing together* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=omsaib07&color=F85D7F&style=for-the-badge)
-[![Follow](https://img.shields.io/github/followers/omsaib07?label=Follow&style=for-the-badge&color=F85D7F)](https://github.com/omsaib07)
-
-</div>
+## 🎓 **Certifications & Achievements**
+- 🌐 **Getting Started with Serverless** - Cloud Computing
+- 💻 **Getting Started with Compute** - Infrastructure Management  
+- 📊 **Jira Work Management** - Project Management
+- 🏆 **Active Learner** - Google Developer Profile
+- 🥇 **CIDxEcode State-Level Hackathon** Participant
+- 🚀 **Flipkart Grid 6.0** - Software Development Track
 
 ---
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**⭐ From [Omsai](https://github.com/omsaib07) with ❤️**
+### 🤝 **Let's Collaborate!**
+*Open to internships, freelance projects, and open source contributions*
+
+![Profile Views](https://komarev.com/ghpvc/?username=omsaib07&color=58a6ff&style=for-the-badge&label=Profile+Views)
+[![Follow](https://img.shields.io/github/followers/omsaib07?label=Followers&style=for-the-badge&color=58a6ff)](https://github.com/omsaib07)
+
+**⭐ From [Omsai](https://github.com/omsaib07)**
 
 </div>
